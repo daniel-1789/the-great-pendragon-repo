@@ -1,4 +1,3 @@
-#+title: Test
 #+draft: false
 
-This is a campaign wiki for The Great Pendragon campaign, currently in progress. Est occaecat deserunt sit pariatur est adipisicing laborum cupidatat eiusmod qui tempor sit enim. Lorem esse ea laboris fugiat sit magna reprehenderit mollit nisi aute quis amet ex et. Pariatur reprehenderit est incididunt voluptate. Adipisicing labore nulla ad elit fugiat eiusmod ut proident dolore commodo.
+This is a campaign wiki for The Great Pendragon campaign, currently in progress. 
