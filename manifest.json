@@ -1,0 +1,15 @@
+{
+  "name": "The Great Pendragon Campaign",
+  "short_name": "The Great Pendragon Campaign",
+  "start_url": "/the-great-pendragon-repo/",
+  "scope": "/the-great-pendragon-repo/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "icons": [
+    {
+      "src": "/the-great-pendragon-repo/favicon.svg",
+      "sizes": "512x512"
+    }
+  ]
+}
