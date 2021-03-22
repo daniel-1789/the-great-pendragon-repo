@@ -1,4 +1,11 @@
 baseURL = "https://dstack1776.gitlab.io/the-great-pendragon-repo"
 languageCode = "en-us"
 title = "The Great Pendragon Campaign"
-theme = "notepadium"
+theme = "book"
+
+[params]
+## Book Theme Settings
+### Book Theme
+BookSection = "*"
+BookCollapseSection = true
+BookTheme = "dark"
