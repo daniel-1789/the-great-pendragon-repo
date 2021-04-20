@@ -1,4 +1,4 @@
-baseURL = "https://dstack1776.gitlab.io/the-great-pendragon-repo"
+baseURL = "/the-great-pendragon-repo"
 languageCode = "en-us"
 title = "The Great Pendragon Campaign"
 theme = "book"
