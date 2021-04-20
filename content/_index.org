@@ -1,3 +1,4 @@
+#+title: Home
 #+draft: false
 
 This is a campaign wiki for The Great Pendragon campaign, currently in progress. 
